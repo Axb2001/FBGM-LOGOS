@@ -13,20 +13,20 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview85"
-     pagecolor="#ffffff"
+     pagecolor="#a2a2a2"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.2973223"
-     inkscape:cx="253.9847"
-     inkscape:cy="149.15338"
+     inkscape:zoom="0.64866115"
+     inkscape:cx="-88.644125"
+     inkscape:cy="91.727399"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -486,11 +486,6 @@
      id="line273"
      style="fill:none;stroke:#ffffff;stroke-width:2.99px;stroke-miterlimit:10"
      d="m 364.35122,71.603382 5.52,-16.41" />
-  <path
-     class="cls-24"
-     id="line279"
-     style="fill:none;stroke:#ffffff;stroke-width:2.99px;stroke-miterlimit:10"
-     d="m 384.26122,11.403382 -4.67,13.9" />
   <path
      style="fill:#ed8721;fill-opacity:1;stroke:#cc6c15;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 345.13421,72.071912 c -0.46527,-0.850437 -0.84825,-1.751857 -1.05988,-2.697865 -0.15881,-0.709881 -0.21991,-1.444416 -0.14453,-2.167927 0.13155,-1.262661 0.66824,-2.441254 1.15623,-3.613211 1.45514,-3.494667 2.53629,-7.146026 4.19133,-10.550579 1.20579,-2.480421 2.70656,-4.808442 4.33585,-7.033718 3.92681,-5.363228 8.63443,-10.170305 14.01926,-14.067438 8.6501,-6.260294 19.066,-10.104614 29.72469,-10.743283 8.73366,-0.523322 17.53007,1.081066 25.72607,4.143149 2.58772,0.966789 5.12713,2.080604 7.51548,3.468684 0.22158,0.128781 0.44214,0.260103 0.65038,0.409497 1.14109,0.818625 1.84541,2.14356 2.14834,3.514862 0.30293,1.371302 0.23969,2.796763 0.0919,4.193323 -0.10607,1.002059 -0.25493,1.999873 -0.45768,2.986922 -0.7043,3.428738 -2.05204,6.69504 -3.61321,9.827936 -3.75857,7.542548 -8.84819,14.485754 -15.31568,19.888382 -7.98068,6.666671 -17.92585,10.83584 -28.20639,12.39991 -7.69288,1.170387 -15.62728,0.911453 -23.16466,-1.02197 -4.60486,-1.181199 -9.03766,-2.975641 -13.28562,-5.109853 -1.07456,-0.539868 -2.1573,-1.115739 -2.99778,-1.97581 -0.53052,-0.542885 -0.94973,-1.185094 -1.31405,-1.851011 z"
