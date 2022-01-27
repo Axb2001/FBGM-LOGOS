@@ -22,9 +22,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.288972"
-     inkscape:cx="38.014791"
-     inkscape:cy="68.659367"
+     inkscape:zoom="2.577944"
+     inkscape:cx="156.13217"
+     inkscape:cy="206.17205"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -35,6 +35,10 @@
        position="173.20004,64.3924"
        orientation="1,0"
        id="guide9952" />
+    <sodipodi:guide
+       position="166.90606,58.311279"
+       orientation="1,0"
+       id="guide852" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -49,13 +53,13 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.237px;line-height:1.25;font-family:'DEATHE MAACH NCV';-inkscape-font-specification:'DEATHE MAACH NCV, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:13.16px;fill:#ffffff;fill-opacity:1;stroke-width:1"
-     x="83.645638"
-     y="259.86877"
+     x="77.928543"
+     y="265.90317"
      id="text2402"><tspan
        sodipodi:role="line"
        id="tspan2400"
-       x="83.645638"
-       y="259.86877"
+       x="77.928543"
+       y="265.90317"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.237px;font-family:'DEATHE MAACH NCV';-inkscape-font-specification:'DEATHE MAACH NCV, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1">FOOTBALL</tspan></text>
   <ellipse
      class="cls-1"
