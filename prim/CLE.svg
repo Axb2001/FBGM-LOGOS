@@ -23,9 +23,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.9047115"
-     inkscape:cx="150.94149"
-     inkscape:cy="192.41759"
+     inkscape:zoom="3.809423"
+     inkscape:cx="167.08567"
+     inkscape:cy="293.35151"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -253,17 +253,59 @@
      id="rect184"
      style="fill:#f8e4cd;stroke-width:1"
      ry="13.924751" />
-  <text
-     xml:space="preserve"
-     style="font-size:15.9357px;line-height:1.25;font-family:'CheGuevara Barry';-inkscape-font-specification:'CheGuevara Barry';letter-spacing:5.76px;word-spacing:0px;fill:#401d5a;fill-opacity:1;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none"
-     x="81.399742"
-     y="366.09027"
-     id="text8492"><tspan
-       sodipodi:role="line"
-       id="tspan8490"
-       x="81.399742"
-       y="366.09027"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9357px;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#401d5a;fill-opacity:1;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none">FOOTBALL CLUB</tspan></text>
+  <g
+     aria-label="FOOTBALL CLUB"
+     id="text8492"
+     style="font-size:15.9357px;line-height:1.25;font-family:'CheGuevara Barry';-inkscape-font-specification:'CheGuevara Barry';letter-spacing:5.76px;word-spacing:0px;fill:#401d5a;stroke-width:1.6">
+    <path
+       d="m 88.394954,366.09027 h -6.575032 v -2.59111 h 1.136041 v -5.6413 h -1.174947 v -2.5911 h 10.660112 v 3.56374 H 89.56212 v -0.97264 h -2.419923 v 1.66516 h 1.867465 v 2.20205 h -1.867465 v 1.77409 h 1.252757 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path888" />
+    <path
+       d="m 103.9358,360.65128 q 0,1.80522 0.35015,2.43548 0.33459,0.63806 1.05045,0.63806 0.70808,0 1.05823,-0.61471 0.35015,-0.62249 0.35015,-2.45883 0,-1.78187 -0.34237,-2.4277 -0.33459,-0.63806 -1.06601,-0.63806 -0.7003,0 -1.05045,0.61471 -0.35015,0.61471 -0.35015,2.45105 z m -4.699785,0 q 0,-1.35391 0.661394,-2.62223 0.653611,-1.26054 2.030871,-2.12424 0.49021,-0.30347 1.00376,-0.48243 0.52133,-0.17897 1.12826,-0.27234 0.60693,-0.10116 1.2761,-0.10116 2.91013,0 4.50526,1.70407 0.79367,0.84036 1.19829,1.82077 0.40462,0.98042 0.40462,2.07756 0,2.2643 -1.6496,3.93724 -1.64959,1.67294 -4.45857,1.67294 -2.7156,0 -4.4041,-1.57179 -1.696285,-1.564 -1.696285,-4.03839 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path890" />
+    <path
+       d="m 123.48392,360.65128 q 0,1.80522 0.35015,2.43548 0.33459,0.63806 1.05045,0.63806 0.70808,0 1.05823,-0.61471 0.35015,-0.62249 0.35015,-2.45883 0,-1.78187 -0.34237,-2.4277 -0.33459,-0.63806 -1.06601,-0.63806 -0.7003,0 -1.05045,0.61471 -0.35015,0.61471 -0.35015,2.45105 z m -4.69979,0 q 0,-1.35391 0.6614,-2.62223 0.65361,-1.26054 2.03086,-2.12424 0.49021,-0.30347 1.00377,-0.48243 0.52133,-0.17897 1.12826,-0.27234 0.60692,-0.10116 1.2761,-0.10116 2.91013,0 4.50526,1.70407 0.79367,0.84036 1.19829,1.82077 0.40461,0.98042 0.40461,2.07756 0,2.2643 -1.64959,3.93724 -1.64959,1.67294 -4.45857,1.67294 -2.71561,0 -4.40411,-1.57179 -1.69628,-1.564 -1.69628,-4.03839 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path892" />
+    <path
+       d="m 145.8488,366.09027 h -6.07705 v -2.59111 h 0.93374 v -5.6413 h -1.24498 v 1.96862 h -2.03087 v -4.55972 h 10.73014 v 4.55972 h -2.03086 v -1.96862 h -1.2372 v 5.6413 h 0.95708 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path894" />
+    <path
+       d="m 160.36254,361.58501 v 2.13202 h 0.94151 q 0.90261,0 1.29945,-0.23343 0.38905,-0.23343 0.38905,-0.8248 0,-0.55245 -0.35015,-0.81701 -0.35015,-0.25678 -1.35391,-0.25678 z m 0,-3.94502 v 1.9764 h 0.92595 q 0.94151,0 1.2372,-0.27234 0.28012,-0.27233 0.28012,-0.71586 0,-0.38127 -0.25678,-0.68473 -0.25678,-0.30347 -1.40838,-0.30347 z m 0.99598,8.45028 h -6.12373 v -2.59111 h 0.94152 v -5.6413 h -0.94152 v -2.5911 h 6.61394 q 1.94528,0 3.01129,0.22565 1.05045,0.23343 1.64959,0.92595 0.59915,0.70808 0.59915,1.64959 0,0.91817 -0.56802,1.46285 -0.58359,0.56024 -1.41617,0.77811 1.14383,0.34237 1.75853,1.05823 0.62249,0.73142 0.62249,1.64181 0,1.08936 -0.7003,1.85191 -0.7003,0.75476 -1.92193,0.9882 -1.20607,0.24121 -3.52484,0.24121 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path896" />
+    <path
+       d="m 179.07029,358.01349 -1.01933,2.99572 h 1.9375 z m -1.01933,8.07678 h -4.28738 v -2.59111 h 0.82479 l 2.03087,-5.6413 h -0.87148 v -2.5911 h 7.7811 v 2.5911 h -0.87148 l 2.06977,5.6413 h 0.79367 v 2.59111 h -5.64908 v -2.37324 h 0.9493 l -0.4124,-1.36169 h -2.77007 l -0.47465,1.36169 h 0.88704 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path898" />
+    <path
+       d="m 202.32221,366.09027 h -10.30218 v -2.59111 h 0.97264 v -5.6413 h -0.97264 v -2.5911 h 6.18598 v 2.5911 h -1.02711 v 5.6413 h 2.55999 v -1.73518 h 2.58332 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path900" />
+    <path
+       d="m 219.20919,366.09027 h -10.30218 v -2.59111 h 0.97264 v -5.6413 h -0.97264 v -2.5911 h 6.18598 v 2.5911 h -1.02711 v 5.6413 h 2.55998 v -1.73518 h 2.58333 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path902" />
+    <path
+       d="m 244.26831,361.32045 2.80897,0.9882 q -0.35793,1.73519 -1.64181,2.84011 -1.29944,1.1127 -3.57931,1.1127 -3.11244,0 -4.60641,-1.62626 -1.50175,-1.61846 -1.50175,-3.9528 0,-2.34989 1.47063,-3.9917 1.47062,-1.64182 3.82052,-1.64182 1.90637,0 3.10466,0.94152 v -0.72364 h 2.59889 v 3.9528 h -2.70005 q -0.21009,-0.73921 -0.70808,-1.16717 -0.49799,-0.42018 -1.13604,-0.42018 -1.75853,0 -1.75853,3.02685 0,3.03463 1.82078,3.03463 1.59513,0 2.00753,-2.37324 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path904" />
+    <path
+       d="m 264.37666,366.09027 h -10.30218 v -2.59111 h 0.97264 v -5.6413 h -0.97264 v -2.5911 h 6.18598 v 2.5911 h -1.02711 v 5.6413 h 2.55999 v -1.73518 h 2.58332 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path906" />
+    <path
+       d="m 271.69288,357.85786 h -0.83257 v -2.5911 h 5.54014 v 2.5911 h -0.51355 v 3.64934 q 0,1.30723 0.24899,1.78187 0.249,0.46687 0.89483,0.46687 0.5369,0 0.77811,-0.39684 0.24122,-0.38905 0.24122,-1.59512 v -3.90612 h -0.54468 v -2.5911 h 4.06952 v 2.5911 h -0.85593 v 3.92168 q 0,1.50175 -0.43574,2.45883 -0.43574,0.94929 -1.44728,1.48619 -1.01155,0.5369 -2.48996,0.5369 -1.1905,0 -2.10867,-0.28791 -0.93374,-0.28012 -1.47841,-0.85592 -0.54468,-0.56802 -0.80146,-1.37725 -0.26456,-0.78589 -0.26456,-2.41214 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path908" />
+    <path
+       d="m 293.59868,361.58501 v 2.13202 h 0.94152 q 0.90261,0 1.29944,-0.23343 0.38906,-0.23343 0.38906,-0.8248 0,-0.55245 -0.35015,-0.81701 -0.35015,-0.25678 -1.35391,-0.25678 z m 0,-3.94502 v 1.9764 h 0.92596 q 0.94151,0 1.23719,-0.27234 0.28012,-0.27233 0.28012,-0.71586 0,-0.38127 -0.25678,-0.68473 -0.25677,-0.30347 -1.40838,-0.30347 z m 0.99599,8.45028 h -6.12373 v -2.59111 h 0.94151 v -5.6413 h -0.94151 v -2.5911 h 6.61394 q 1.94527,0 3.01128,0.22565 1.05045,0.23343 1.6496,0.92595 0.59914,0.70808 0.59914,1.64959 0,0.91817 -0.56802,1.46285 -0.58358,0.56024 -1.41616,0.77811 1.14382,0.34237 1.75853,1.05823 0.62249,0.73142 0.62249,1.64181 0,1.08936 -0.7003,1.85191 -0.7003,0.75476 -1.92193,0.9882 -1.20608,0.24121 -3.52484,0.24121 z"
+       style="font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Normal'"
+       id="path910" />
+  </g>
   <rect
      class="cls-2"
      x="0"
